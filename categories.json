@@ -1,0 +1,31 @@
+{
+  
+  "categories": [
+     {
+    "id": "1",
+    "name": "News",
+    "icon": "https://ssl.gstatic.com/onebox/media/sports/logos/mlXOOB9HXxLpoeS2dHSgGA_96x96.png"
+  },
+      {
+    "id": "2",
+    "name": "Entertainment",
+    "icon": "https://ssl.gstatic.com/onebox/media/sports/logos/mlXOOB9HXxLpoeS2dHSgGA_96x96.png"
+  },
+      {
+    "id": "3",
+    "name": "Sports",
+    "icon": "https://ssl.gstatic.com/onebox/media/sports/logos/mlXOOB9HXxLpoeS2dHSgGA_96x96.png"
+  },
+      {
+    "id": "4",
+    "name": "Movies",
+    "icon": "https://ssl.gstatic.com/onebox/media/sports/logos/mlXOOB9HXxLpoeS2dHSgGA_96x96.png"
+  },
+      {
+    "id": "5",
+    "name": "Islamic",
+    "icon": "https://ssl.gstatic.com/onebox/media/sports/logos/mlXOOB9HXxLpoeS2dHSgGA_96x96.png"
+  },
+
+  ]
+}
