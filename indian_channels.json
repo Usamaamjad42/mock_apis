@@ -2,17 +2,17 @@
   "categoryName": "Indian",
 "liveNow": [
   {
-    "name": "Geo News",
-    "url": "q130lTDaua0",
-    "logo": "https://www.thenews.com.pk/assets/uploads/akhbar/2021-08-11/876584_9512134_Geo-TV-continues-to-dominate-air-waves_akhbar.jpg",
-    "isFrom": "youtube",
+    "name": "Star Gold",
+    "url": "https://tv.googledrivelinks.com/live.php?c=Sony_HD&q=250&e=.m3u8",
+    "logo": "http://sldhncdnems05.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",
+    "isFrom": "web",
      "isLive": true
   },
   {
-    "name": "ARY News",
-    "url": "sUKwTVAc0Vo",
-    "logo": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/20d238103959025.5f58903faa6aa.png",
-    "isFrom": "youtube",
+    "name": "Zee TV HD",
+    "url": "https://tv.googledrivelinks.com/live.php?c=Zee_TV_HD&q=250&e=.m3u8",
+    "logo": "http://sldhnecdnems06.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",
+    "isFrom": "web",
      "isLive": true
   },
    {
