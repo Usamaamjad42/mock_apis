@@ -2,38 +2,38 @@
   "categoryName": "Indian",
 "liveNow": [
   {
-    "name": "Star Gold",
+    "name": "Sony HD",
     "url": "https://tv.googledrivelinks.com/live.php?c=Sony_HD&q=250&e=.m3u8",
-    "logo": "http://sldhncdnems05.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",
+    "logo": "https://www.bizasialive.com/wp-content/uploads/2018/08/sonytvlogo002.jpg",
     "isFrom": "web",
      "isLive": true
   },
   {
     "name": "Zee TV HD",
     "url": "https://tv.googledrivelinks.com/live.php?c=Zee_TV_HD&q=250&e=.m3u8",
-    "logo": "http://sldhnecdnems06.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",
+    "logo": "https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Zee-TV-US-HD_1.jpg",
     "isFrom": "web",
      "isLive": true
   },
    {
     "name": "Colors HD",
     "url": "https://tv.googledrivelinks.com/live.php?c=Colors_HD&q=250&e=.m3u8",
-    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/16419845783.jpg",
-    "isFrom": "youtube",
+    "logo": "https://www.bizasialive.com/wp-content/uploads/2017/02/colorshdlogo002.jpg",
+    "isFrom": "web",
      "isLive": true
   },
  {
     "name": "Star Plus",
     "url": "https://tv.googledrivelinks.com/live.php?c=Star_Plus_HD&q=250&e=.m3u8",
-    "logo": "https://i.edition.pk/medium/2020/08/5f4cc2d6cbab0.png",
-    "isFrom": "youtube",
+    "logo": "https://www.bizasialive.com/wp-content/uploads/2019/04/starpluslogo001.jpg",
+    "isFrom": "web",
      "isLive": true
   },
 {
     "name": "Star Gold",
     "url": "https://tv.googledrivelinks.com/live.php?c=Star_Gold_HD&q=250&e=.m3u8",
-    "logo": "https://beam.pk/wp-content/uploads/2018/06/maxresdefault-1.jpg",
-    "isFrom": "youtube",
+    "logo": "https://www.adgully.com/img/800/201905/star-gold.jpg",
+    "isFrom": "web",
      "isLive": true
   }
 ]
