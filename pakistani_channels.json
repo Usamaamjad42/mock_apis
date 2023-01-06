@@ -9,10 +9,10 @@
      "isLive": true
   },
   {
-    "name": "ARY News",
-    "url": "sUKwTVAc0Vo",
+    "name": "ARY Digital",
+    "url": "https://cdn02isb.tamashaweb.com:8087/jazzauth/ARYdigital-abr/live/84H/chunks.m3u8?nimblesessionid=8722353&wmsAuthSign=c2VydmVyX3RpbWU9MS82LzIwMjMgMToxMzo0OCBQTSZoYXNoX3ZhbHVlPVJKUVdUNVFRaWVLeUx3REFxb0RoREE9PSZ2YWxpZG1pbnV0ZXM9MQ==",
     "logo": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/20d238103959025.5f58903faa6aa.png",
-    "isFrom": "youtube",
+    "isFrom": "web",
      "isLive": true
   },
    {
