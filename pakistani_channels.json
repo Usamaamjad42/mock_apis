@@ -10,7 +10,7 @@
   },
   {
     "name": "ARY Digital",
-    "url": "https://cdn06lhr.tamashaweb.com:8087/jazzauth/ARYdigital-abr/live/84H/chunks.m3u8?nimblesessionid=15309174&wmsAuthSign=c2VydmVyX3RpbWU9MS85LzIwMjMgOToyNzowNCBBTSZoYXNoX3ZhbHVlPWc1aE55cElyWmRzTnFkTHo4c3Jldnc9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+    "url": "https://arydigital.aryzap.com/73bf64dc9cc312d0b489e00548f926ec/63be9694/v1/0183ea2408f90b8ed5941a38bc72/0183ea24302d0b8ed5941a38bc75/ARYDigitalHDh264_video_360p.m3u8",
     "logo": "https://propakistani.pk/wp-content/uploads/2022/01/ARY-network.jpg",
     "isFrom": "web",
      "isLive": true
@@ -23,10 +23,10 @@
      "isLive": true
   },
  {
-    "name": "24 NewsHD",
-    "url": "FYQTwpDT3Ko",
+    "name": "Play Entertainment",
+    "url": "https://streamone.simpaisa.com:8443/pitvlive1/playmax.smil/chunklist_w191605809_b748000_slENG.m3u8",
     "logo": "https://i.edition.pk/medium/2020/08/5f4cc2d6cbab0.png",
-    "isFrom": "youtube",
+    "isFrom": "web",
      "isLive": true
   },
 {
