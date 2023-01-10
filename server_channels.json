@@ -2,6 +2,13 @@
   "categoryName": "Live Sports",
   "liveNow": [
      {
+    "name": "Pakistan VS Newzealand",
+    "url": "https://gocast2.com/crichdws.php?player=desktop&live=skyscric",
+    "logo": "https://images.news18.com/ibnlive/uploads/2022/10/new-zealand-vs-pakistan-dream-11-prediction-16654255513x2.jpg",
+    "isFrom": "web",
+    "isLive": false
+  },
+    {
     "name": "India Vs Sri Lanka",
     "url": "https://123ecast.me/embed.php?player=desktop&v=astrocric&vw=100%&vh=100%",
     "logo": "https://india.postsen.com/temp/resized/medium_2023-01-10-7c56010a98.jpg",
@@ -19,13 +26,6 @@
     "name": "Bangladesh Premier League",
     "url": "https://123ecast.me/embed.php?player=desktop&v=viaplayextra&vw=100%&vh=100%",
     "logo": "https://new-media.dhakatribune.com/en/uploads/2022/11/19/bpl-2028.jpeg",
-    "isFrom": "web",
-    "isLive": false
-  },
-     {
-    "name": "Pakistan VS Newzealand",
-    "url": "https://gocast2.com/crichdws.php?player=desktop&live=skyscric",
-    "logo": "https://images.news18.com/ibnlive/uploads/2022/10/new-zealand-vs-pakistan-dream-11-prediction-16654255513x2.jpg",
     "isFrom": "web",
     "isLive": false
   },
