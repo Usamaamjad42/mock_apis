@@ -191,15 +191,15 @@
      "isLive": true
   },
 {
-    "name": "ViaPlay Sports Extra",
-    "url": ",
-{
     "name": "ViaPlay Sports 2",
     "url": "https://gocast2.com/crichdws.php?player=desktop&live=hdchnl2",
     "logo": "https://pakistanmediaupdates.com/wp-content/uploads/2014/06/dunya-logo.jpg",
     "isFrom": "web",
      "isLive": true
-  }",
+  },
+  {
+    "name": "ViaPlay Sports Extra",
+    "url": "https://gocast2.com/crichdws.php?player=desktop&live=hdchnl3",
     "logo": "https://pakistanmediaupdates.com/wp-content/uploads/2014/06/dunya-logo.jpg",
     "isFrom": "web",
      "isLive": true
