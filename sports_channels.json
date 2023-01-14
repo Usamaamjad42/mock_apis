@@ -5,14 +5,14 @@
     "name": "PTV Sports",
     "url": "https://gocast2.com/crichdws.php?player=desktop&live=ptvpk",
     "logo": "https://www.thenews.com.pk/assets/uploads/akhbar/2021-08-11/876584_9512134_Geo-TV-continues-to-dominate-air-waves_akhbar.jpg",
-    "isFrom": "youtube",
+    "isFrom": "web",
      "isLive": true
   },
   {
     "name": "A Sports HD",
     "url": "https://gocast2.com/crichdws.php?player=desktop&live=asportshd",
     "logo": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/20d238103959025.5f58903faa6aa.png",
-    "isFrom": "youtube",
+    "isFrom": "web",
      "isLive": true
   },
    {
@@ -23,38 +23,185 @@
      "isLive": true
   },
  {
-    "name": "24 NewsHD",
-    "url": "FYQTwpDT3Ko",
+    "name": "Star Sports 1",
+    "url": "https://gocast2.com/crichdws.php?player=desktop&live=star1in",
     "logo": "https://i.edition.pk/medium/2020/08/5f4cc2d6cbab0.png",
     "isFrom": "youtube",
      "isLive": true
   },
 {
-    "name": "92 News",
-    "url": "IH74KKqQanE",
+    "name": "Star Sports 1 Hindi",
+    "url": "https://gocast2.com/crichdws.php?player=desktop&live=starhindi",
     "logo": "https://beam.pk/wp-content/uploads/2018/06/maxresdefault-1.jpg",
-    "isFrom": "youtube",
+    "isFrom": "web",
      "isLive": true
   },
 {
-    "name": "Al Jazeera News",
-    "url": "GEumHK0hfdo",
+    "name": "BT Sports 1",
+    "url": "https://123ecast.me/embed.php?player=desktop&v=bbtsp1&vw=100%&vh=100%",
     "logo": "https://www.aljazeera.com/images/logo_aje_social.png",
-    "isFrom": "youtube",
+    "isFrom": "web",
      "isLive": true
   },
 {
-    "name": "Capital TV",
-    "url": "LJR4amOzP",
+    "name": "BT Sports 2",
+    "url": "https://123ecast.me/embed.php?player=desktop&v=bbtsp2&vw=100%&vh=100%",
     "logo": "https://i.hipinpakistan.com/large/2015/04/553f47c67ef71.png",
-    "isFrom": "youtube",
+    "isFrom": "web",
      "isLive": true
   },
 {
-    "name": "Dunya News",
-    "url": "_Q6X1VylryE",
+    "name": "BT Sports 3",
+    "url": "https://123ecast.me/embed.php?player=desktop&v=bbtsp3&vw=100%&vh=100%",
     "logo": "https://pakistanmediaupdates.com/wp-content/uploads/2014/06/dunya-logo.jpg",
-    "isFrom": "youtube",
+    "isFrom": "web",
+     "isLive": true
+  },
+{
+    "name": "BT Sports 4",
+    "url": "https://123ecast.me/embed.php?player=desktop&v=bbtespn&vw=100%&vh=100%",
+    "logo": "https://pakistanmediaupdates.com/wp-content/uploads/2014/06/dunya-logo.jpg",
+    "isFrom": "web",
+     "isLive": true
+  },
+{
+    "name": "Fox 501",
+    "url": "https://gocast2.com/crichdws.php?player=desktop&live=fox501",
+    "logo": "https://pakistanmediaupdates.com/wp-content/uploads/2014/06/dunya-logo.jpg",
+    "isFrom": "web",
+     "isLive": true
+  },
+{
+    "name": "Fox 502",
+    "url": "https://gocast2.com/crichdws.php?player=desktop&live=fox5022",
+    "logo": "https://pakistanmediaupdates.com/wp-content/uploads/2014/06/dunya-logo.jpg",
+    "isFrom": "web",
+     "isLive": true
+  },
+{
+    "name": "Fox 503",
+    "url": "https://gocast2.com/crichdws.php?player=desktop&live=fox503",
+    "logo": "https://pakistanmediaupdates.com/wp-content/uploads/2014/06/dunya-logo.jpg",
+    "isFrom": "web",
+     "isLive": true
+  },
+{
+    "name": "Fox 504",
+    "url": "https://gocast2.com/crichdws.php?player=desktop&live=fox504",
+    "logo": "https://pakistanmediaupdates.com/wp-content/uploads/2014/06/dunya-logo.jpg",
+    "isFrom": "web",
+     "isLive": true
+  },
+{
+    "name": "Fox 505",
+    "url": "https://gocast2.com/crichdws.php?player=desktop&live=fox505",
+    "logo": "https://pakistanmediaupdates.com/wp-content/uploads/2014/06/dunya-logo.jpg",
+    "isFrom": "web",
+     "isLive": true
+  },
+{
+    "name": "Willow HD",
+    "url": "https://123ecast.me/embed.php?player=desktop&v=willowusa&vw=100%&vh=100%",
+    "logo": "https://pakistanmediaupdates.com/wp-content/uploads/2014/06/dunya-logo.jpg",
+    "isFrom": "web",
+     "isLive": true
+  },
+{
+    "name": "Willow Extra",
+    "url": "https://gocast2.com/crichdws.php?player=desktop&live=willowextra",
+    "logo": "https://pakistanmediaupdates.com/wp-content/uploads/2014/06/dunya-logo.jpg",
+    "isFrom": "web",
+     "isLive": true
+  },
+{
+    "name": "Euro Sport 1",
+    "url": "https://123ecast.me/embed.php?player=desktop&v=eurosp1&vw=100%&vh=100%",
+    "logo": "https://pakistanmediaupdates.com/wp-content/uploads/2014/06/dunya-logo.jpg",
+    "isFrom": "web",
+     "isLive": true
+  },
+{
+    "name": "Euro Sport 2",
+    "url": "https://123ecast.me/embed.php?player=desktop&v=eurosp2&vw=100%&vh=100%",
+    "logo": "https://pakistanmediaupdates.com/wp-content/uploads/2014/06/dunya-logo.jpg",
+    "isFrom": "web",
+     "isLive": true
+  },
+{
+    "name": "Sky Sports Main Event",
+    "url": "https://123ecast.me/embed.php?player=desktop&v=skysme&vw=100%&vh=100%",
+    "logo": "https://pakistanmediaupdates.com/wp-content/uploads/2014/06/dunya-logo.jpg",
+    "isFrom": "web",
+     "isLive": true
+  },
+{
+    "name": "Sky Sports Cricket",
+    "url": "https://123ecast.me/embed.php?player=desktop&v=skyscric&vw=100%&vh=100%",
+    "logo": "https://pakistanmediaupdates.com/wp-content/uploads/2014/06/dunya-logo.jpg",
+    "isFrom": "web",
+     "isLive": true
+  },
+{
+    "name": "Sky Sports Football",
+    "url": "https://gocast2.com/crichdws.php?player=desktop&live=skysfott",
+    "logo": "https://pakistanmediaupdates.com/wp-content/uploads/2014/06/dunya-logo.jpg",
+    "isFrom": "web",
+     "isLive": true
+  },
+{
+    "name": "Sky Sports Mix",
+    "url": "https://123ecast.me/embed.php?player=desktop&v=skysmixx&vw=100%&vh=100%",
+    "logo": "https://pakistanmediaupdates.com/wp-content/uploads/2014/06/dunya-logo.jpg",
+    "isFrom": "web",
+     "isLive": true
+  },
+{
+    "name": "WWE",
+    "url": "https://123ecast.me/embed.php?player=desktop&v=wweusa&vw=100%&vh=100%",
+    "logo": "https://pakistanmediaupdates.com/wp-content/uploads/2014/06/dunya-logo.jpg",
+    "isFrom": "web",
+     "isLive": true
+  },
+{
+    "name": "Super Sports Cricket",
+    "url": "https://123ecast.me/embed.php?player=desktop&v=superspcric&vw=100%&vh=100%",
+    "logo": "https://pakistanmediaupdates.com/wp-content/uploads/2014/06/dunya-logo.jpg",
+    "isFrom": "web",
+     "isLive": true
+  },
+{
+    "name": "Sports 18",
+    "url": "https://gocast2.com/crichdws.php?player=desktop&live=tenspk",
+    "logo": "https://pakistanmediaupdates.com/wp-content/uploads/2014/06/dunya-logo.jpg",
+    "isFrom": "web",
+     "isLive": true
+  },
+{
+    "name": "ViaPlay Sports 1",
+    "url": "https://gocast2.com/crichdws.php?player=desktop&live=premieruk",
+    "logo": "https://pakistanmediaupdates.com/wp-content/uploads/2014/06/dunya-logo.jpg",
+    "isFrom": "web",
+     "isLive": true
+  },
+{
+    "name": "ViaPlay Sports 2",
+    "url": "https://gocast2.com/crichdws.php?player=desktop&live=hdchnl2",
+    "logo": "https://pakistanmediaupdates.com/wp-content/uploads/2014/06/dunya-logo.jpg",
+    "isFrom": "web",
+     "isLive": true
+  },
+{
+    "name": "ViaPlay Sports Extra",
+    "url": ",
+{
+    "name": "ViaPlay Sports 2",
+    "url": "https://gocast2.com/crichdws.php?player=desktop&live=hdchnl2",
+    "logo": "https://pakistanmediaupdates.com/wp-content/uploads/2014/06/dunya-logo.jpg",
+    "isFrom": "web",
+     "isLive": true
+  }",
+    "logo": "https://pakistanmediaupdates.com/wp-content/uploads/2014/06/dunya-logo.jpg",
+    "isFrom": "web",
      "isLive": true
   }
 ]
