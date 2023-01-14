@@ -2,15 +2,15 @@
   "categoryName": "Sports",
 "liveNow": [
   {
-    "name": "Geo News",
-    "url": "q130lTDaua0",
+    "name": "PTV Sports",
+    "url": "https://gocast2.com/crichdws.php?player=desktop&live=ptvpk",
     "logo": "https://www.thenews.com.pk/assets/uploads/akhbar/2021-08-11/876584_9512134_Geo-TV-continues-to-dominate-air-waves_akhbar.jpg",
     "isFrom": "youtube",
      "isLive": true
   },
   {
-    "name": "ARY News",
-    "url": "sUKwTVAc0Vo",
+    "name": "A Sports HD",
+    "url": "https://gocast2.com/crichdws.php?player=desktop&live=asportshd",
     "logo": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/20d238103959025.5f58903faa6aa.png",
     "isFrom": "youtube",
      "isLive": true
