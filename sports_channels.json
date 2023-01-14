@@ -197,9 +197,16 @@
     "isFrom": "web",
      "isLive": true
   },
-  {
+ {
     "name": "ViaPlay Sports Extra",
     "url": "https://gocast2.com/crichdws.php?player=desktop&live=hdchnl3",
+    "logo": "https://pakistanmediaupdates.com/wp-content/uploads/2014/06/dunya-logo.jpg",
+    "isFrom": "web",
+     "isLive": true
+  },
+ {
+    "name": "Laliga",
+    "url": "https://gocast2.com/crichdws.php?player=desktop&live=laligauk",
     "logo": "https://pakistanmediaupdates.com/wp-content/uploads/2014/06/dunya-logo.jpg",
     "isFrom": "web",
      "isLive": true
