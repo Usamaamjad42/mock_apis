@@ -172,21 +172,21 @@
 {
     "name": "ViaPlay Sports 1",
     "url": "https://gocast2.com/crichdws.php?player=desktop&live=premieruk",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/b/bb/Viaplay_Sports_1_Stacked.svg/revision/latest?cb=20221102110507",
+    "logo": "https://i0.wp.com/www.seenit.co.uk/wp-content/uploads/viaplay-logo.jpg?fit=1200%2C600&ssl=1",
     "isFrom": "web",
      "isLive": true
   },
 {
     "name": "ViaPlay Sports 2",
     "url": "https://gocast2.com/crichdws.php?player=desktop&live=hdchnl2",
-    "logo": "https://www.lyngsat.com/logo/tv/vv/viaplay-sports-2-uk.svg",
+    "logo": "https://i0.wp.com/www.seenit.co.uk/wp-content/uploads/viaplay-logo.jpg?fit=1200%2C600&ssl=1",
     "isFrom": "web",
      "isLive": true
   },
  {
     "name": "ViaPlay Sports Extra",
     "url": "https://gocast2.com/crichdws.php?player=desktop&live=hdchnl3",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/9/95/Viaplay_Xtra_Stacked.svg/revision/latest?cb=20221102093319",
+    "logo": "https://i0.wp.com/www.seenit.co.uk/wp-content/uploads/viaplay-logo.jpg?fit=1200%2C600&ssl=1",
     "isFrom": "web",
      "isLive": true
   },
