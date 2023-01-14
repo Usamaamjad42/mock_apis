@@ -179,14 +179,14 @@
 {
     "name": "ViaPlay Sports 2",
     "url": "https://gocast2.com/crichdws.php?player=desktop&live=hdchnl2",
-    "logo": "https://i0.wp.com/www.seenit.co.uk/wp-content/uploads/viaplay-logo.jpg?fit=1200%2C600&ssl=1",
+    "logo": "https://tvepg.eu/img/united_kingdom/logo/viaplay_sports_2.png",
     "isFrom": "web",
      "isLive": true
   },
  {
     "name": "ViaPlay Sports Extra",
     "url": "https://gocast2.com/crichdws.php?player=desktop&live=hdchnl3",
-    "logo": "https://i0.wp.com/www.seenit.co.uk/wp-content/uploads/viaplay-logo.jpg?fit=1200%2C600&ssl=1",
+    "logo": "https://www.digitaltveurope.com/files/2021/03/Viaplay.png",
     "isFrom": "web",
      "isLive": true
   },
