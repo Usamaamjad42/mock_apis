@@ -38,7 +38,7 @@
   },
 {
     "name": "Discovery English",
-    "url": "https://tv.googledrivelinks.com/live.php?c=Discovery_HD_World&q=250&e=.m3u8",
+    "url": "https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8",
     "logo": "https://i.ytimg.com/vi/GB_ZgYFrtNo/maxresdefault.jpg",
     "isFrom": "web",
      "isLive": true
