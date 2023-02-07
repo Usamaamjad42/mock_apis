@@ -6,35 +6,35 @@
     "url": "https://tv.googledrivelinks.com/live.php?c=Sony_HD&q=250&e=.m3u8",
     "logo": "https://www.bizasialive.com/wp-content/uploads/2018/08/sonytvlogo002.jpg",
     "isFrom": "web",
-     "isLive": true
+     "isLive": false
   },
   {
     "name": "Zee TV HD",
     "url": "https://z5ak-live.zee5.com/out/v1/ce2e6698dc7c4e5f8aa5b2fe17a133db/hdntl=exp=1675849673~acl=%2f*~data=hdntl~hmac=62d7e32073c8266f94a19f0b4c67285f15c743df97df7cae7fb27a735e9e7a76/index_78.m3u8",
     "logo": "https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Zee-TV-US-HD_1.jpg",
     "isFrom": "web",
-     "isLive": true
+     "isLive": false
   },
    {
     "name": "Colors HD",
     "url": "https://tv.googledrivelinks.com/live.php?c=Colors_HD&q=250&e=.m3u8",
     "logo": "https://www.bizasialive.com/wp-content/uploads/2017/02/colorshdlogo002.jpg",
     "isFrom": "web",
-     "isLive": true
+     "isLive": false
   },
  {
     "name": "Star Plus",
     "url": "https://tv.googledrivelinks.com/live.php?c=Star_Plus_HD&q=250&e=.m3u8",
     "logo": "https://www.bizasialive.com/wp-content/uploads/2019/04/starpluslogo001.jpg",
     "isFrom": "web",
-     "isLive": true
+     "isLive": false
   },
 {
     "name": "Star Gold",
     "url": "https://tv.googledrivelinks.com/live.php?c=Star_Gold_HD&q=250&e=.m3u8",
     "logo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7403/567403-h",
     "isFrom": "web",
-     "isLive": true
+     "isLive": false
   }
 ]
 }
