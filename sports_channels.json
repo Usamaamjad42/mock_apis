@@ -34,28 +34,28 @@
     "url": "https://123ecast.me/embed.php?player=desktop&v=bbtsp1&vw=100%&vh=100%",
     "logo": "https://ewsat.com/img/BT_SPORT_EXTRA_1.png",
     "isFrom": "web",
-     "isLive": true
+     "isLive": false
   },
 {
     "name": "BT Sports 2",
     "url": "https://123ecast.me/embed.php?player=desktop&v=bbtsp2&vw=100%&vh=100%",
     "logo": "https://ewsat.com/img/BT_SPORT_2.png",
     "isFrom": "web",
-     "isLive": true
+     "isLive": false
   },
 {
     "name": "BT Sports 3",
     "url": "https://123ecast.me/embed.php?player=desktop&v=bbtsp3&vw=100%&vh=100%",
     "logo": "https://static.tvmaze.com/uploads/images/large_landscape/128/320387.jpg",
     "isFrom": "web",
-     "isLive": true
+     "isLive": false
   },
 {
     "name": "BT Sports 4",
     "url": "https://123ecast.me/embed.php?player=desktop&v=bbtespn&vw=100%&vh=100%",
     "logo": "https://ewsat.com/img/BT_SPORT_EXTRA_4.png",
     "isFrom": "web",
-     "isLive": true
+     "isLive": false
   },
 {
     "name": "Fox 501",
@@ -97,7 +97,7 @@
     "url": "https://123ecast.me/embed.php?player=desktop&v=willowusa&vw=100%&vh=100%",
     "logo": "https://cdn.technadu.com/wp-content/uploads/2019/06/Willow.png",
     "isFrom": "web",
-     "isLive": true
+     "isLive": false
   },
 {
     "name": "Willow Extra",
@@ -111,56 +111,56 @@
     "url": "https://123ecast.me/embed.php?player=desktop&v=eurosp1&vw=100%&vh=100%",
     "logo": "https://media.info/i/lf/0/1447433721/1065.png",
     "isFrom": "web",
-     "isLive": true
+     "isLive": false
   },
 {
     "name": "Euro Sport 2",
     "url": "https://123ecast.me/embed.php?player=desktop&v=eurosp2&vw=100%&vh=100%",
     "logo": "https://image.discovery.indazn.com/eu/v2/us/image?id=1088590917281_image-header_pDach_1661949223000&quality=70",
     "isFrom": "web",
-     "isLive": true
+     "isLive": false
   },
 {
     "name": "Sky Sports Main Event",
     "url": "https://123ecast.me/embed.php?player=desktop&v=skysme&vw=100%&vh=100%",
     "logo": "https://ia600803.us.archive.org/32/items/SkySportsMainEvent_201708/sky%20sports%20main%20event.png",
     "isFrom": "web",
-     "isLive": true
+     "isLive": false
   },
 {
     "name": "Sky Sports Cricket",
     "url": "https://123ecast.me/embed.php?player=desktop&v=skyscric&vw=100%&vh=100%",
     "logo": "https://ia800809.us.archive.org/18/items/SkySportsCricket_201708/sky%20sports%20cricket.png",
     "isFrom": "web",
-     "isLive": true
+     "isLive": false
   },
 {
     "name": "Sky Sports Football",
     "url": "https://gocast2.com/crichdws.php?player=desktop&live=skysfott",
     "logo": "https://ia800609.us.archive.org/8/items/SkySportsFootball_201708/sky%20sports%20football.png",
     "isFrom": "web",
-     "isLive": true
+     "isLive": false
   },
 {
     "name": "Sky Sports Mix",
     "url": "https://123ecast.me/embed.php?player=desktop&v=skysmixx&vw=100%&vh=100%",
     "logo": "https://ia800805.us.archive.org/33/items/SkySportsMixNew_201708/sky%20sports%20mix%20new.png",
     "isFrom": "web",
-     "isLive": true
+     "isLive": false
   },
 {
     "name": "WWE",
     "url": "https://123ecast.me/embed.php?player=desktop&v=wweusa&vw=100%&vh=100%",
     "logo": "https://img.bleacherreport.net/img/images/photos/002/695/669/maxresdefault_crop_exact.jpg?w=1200&h=1200&q=75",
     "isFrom": "web",
-     "isLive": true
+     "isLive": false
   },
 {
     "name": "Super Sports Cricket",
     "url": "https://123ecast.me/embed.php?player=desktop&v=superspcric&vw=100%&vh=100%",
     "logo": "https://www.donasport.com/slike/supersport-cricket.jpg",
     "isFrom": "web",
-     "isLive": true
+     "isLive": false
   },
 {
     "name": "Sports 18",
