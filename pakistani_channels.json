@@ -6,14 +6,14 @@
     "url": "0UP5W-CTzFo",
     "logo": "https://i.ytimg.com/vi/K-a-EWmQtZQ/sddefault.jpg",
     "isFrom": "youtube",
-     "isLive": true
+     "isLive": false
   },
   {
     "name": "ARY Digital",
     "url": "https://cdn11lhr.tamashaweb.com:8087/jazzauth/ARYdigital-abr/live/84H/chunks.m3u8?nimblesessionid=21918623&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNy8yMDIzIDM6NDA6MTQgUE0maGFzaF92YWx1ZT1vU3hZTkJOb0tCRW9qL1JiOHlaWU5RPT0mdmFsaWRtaW51dGVzPTE=",
     "logo": "https://propakistani.pk/wp-content/uploads/2022/01/ARY-network.jpg",
     "isFrom": "web",
-     "isLive": true
+     "isLive": false
   },
    {
     "name": "Bol Entertainment",
