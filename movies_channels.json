@@ -6,7 +6,7 @@
     "url": "https://tv.googledrivelinks.com/live.php?c=Colors_Cineplex&q=250&e=.m3u8",
     "logo": "http://v3img.voot.com/v3Storage/assets/Live-Tv-Channels-colors-cineplex-1607514413063.jpg",
     "isFrom": "web",
-     "isLive": true
+     "isLive": false
   },
   {
     "name": "Sony Pix HD",
@@ -34,49 +34,49 @@
     "url": "https://tv.googledrivelinks.com/live.php?c=And_Pictures_HD&q=250&e=.m3u8",
     "logo": "https://mir-s3-cdn-cf.behance.net/projects/404/088659105160603.Y3JvcCwxMDgwLDg0NCwwLDEzOQ.png",
     "isFrom": "web",
-     "isLive": true
+     "isLive": false
   },
 {
     "name": "Zee Cinema",
     "url": "https://zee5livemedia.zee5.com/v1/manifest/5c95b915ce5f89df583d7097ff7e9fdb77a6461e/LinearStream-SSAI-POC/eb690cd9-e131-40d9-bd7f-581ab20644a2/4.m3u8",
     "logo": "https://www.ethnicchannels.com/images/channels/zee-cinema-final-2.jpg",
     "isFrom": "web",
-     "isLive": true
+     "isLive": false
   },
 {
     "name": "B4U Movies",
     "url": "https://tv.googledrivelinks.com/live.php?c=B4U_Movies&q=250&e=.m3u8",
     "logo": "https://www.bizasialive.com/wp-content/uploads/2018/01/b4umovieslogo001.jpg",
     "isFrom": "web",
-     "isLive": true
+     "isLive": false
   },
 {
     "name": "Zee Bollywood",
     "url": "https://tv.googledrivelinks.com/live.php?c=Zee_Classic&q=250&e=.m3u8",
     "logo": "https://www.exchange4media.com/news-photo/1535097258_cDTJkL_Zee_new.jpg",
     "isFrom": "web",
-     "isLive": true
+     "isLive": false
   },
 {
     "name": "Enterr 10",
     "url": "https://tv.googledrivelinks.com/live.php?c=Enterr_10&q=250&e=.m3u8",
     "logo": "https://www.adgully.com/img/800/201805/enterr10.jpg",
     "isFrom": "web",
-     "isLive": true
+     "isLive": false
   },
 {
     "name": "Zee Action",
     "url": "https://tv.googledrivelinks.com/live.php?c=Zee_Action&q=250&e=.m3u8",
     "logo": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/2b43c88f-23c6-4168-9f77-f1065775df0a/5bf6b2ef-f485-44d6-894d-8ba698a7c0ee.jpg",
     "isFrom": "web",
-     "isLive": true
+     "isLive": false
   },
 {
     "name": "Zee Anmol Cinema",
     "url": "https://tv.googledrivelinks.com/live.php?c=Zee_Anmol_Cinema&q=250&e=.m3u8",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/d/dd/Zee-anmol-cinema.jpg/revision/latest?cb=20171015193443",
     "isFrom": "web",
-     "isLive": true
+     "isLive": false
   }
 ]
 }
