@@ -45,21 +45,21 @@
   },
 {
     "name": "Discovery Hindi",
-    "url": "https://tv.googledrivelinks.com/live.php?c=Discovery_Channel_Hindi&q=250&e=.m3u8",
+    "url": "https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8",
     "logo": "https://i.ytimg.com/vi/vjYhjLxn1fk/maxresdefault.jpg",
     "isFrom": "web",
      "isLive": true
   },
 {
     "name": "Discovery Science English",
-    "url": "https://tv.googledrivelinks.com/live.php?c=Discovery_Science&q=250&e=.m3u8",
+    "url": "https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8",
     "logo": "https://starsat.co.za/wp-content/uploads/2018/01/vanished-on-discovery-science.jpg",
     "isFrom": "web",
      "isLive": true
   },
 {
     "name": "Animal Planet English",
-    "url": "https://tv.googledrivelinks.com/live.php?c=Animal_Planet_English&q=250&e=.m3u8",
+    "url": "https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8",
     "logo": "https://deadline.com/wp-content/uploads/2018/10/animal-planet-logos-2.jpg?w=756",
     "isFrom": "web",
      "isLive": true
@@ -87,7 +87,7 @@
   },
 {
     "name": "BBC Earth English",
-    "url": "https://tv.googledrivelinks.com/live.php?c=Sony_BBC_Earth_HD_English&q=250&e=.m3u8",
+    "url": "https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8",
     "logo": "https://d17mj1ha1c2g57.cloudfront.net/v1/BPHyhpEj-tU9JPCeuXCvlsATv7A/1200x/80/mcasso/production/clips/1513768264765/bbc-earth-large-screen2.jpg?v=1",
     "isFrom": "web",
      "isLive": true
