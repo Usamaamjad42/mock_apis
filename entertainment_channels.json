@@ -6,35 +6,35 @@
     "url": "https://tv.googledrivelinks.com/live.php?c=CN_HD_English&q=250&e=.m3u8",
     "logo": "https://preview.redd.it/xzyybjjtjy151.jpg?auto=webp&s=bbd96939fa9fd09ca08c320c805f7d31b61f8d40",
     "isFrom": "web",
-     "isLive": true
+     "isLive": false
   },
   {
     "name": "CN Hindi",
     "url": "https://tv.googledrivelinks.com/live.php?c=Cartoon_Network_Hindi&q=250&e=.m3u8",
     "logo": "https://i.ytimg.com/vi/9o4jr1iDsKE/maxresdefault.jpg",
     "isFrom": "web",
-     "isLive": true
+     "isLive": false
   },
    {
     "name": "Nick English",
     "url": "https://tv.googledrivelinks.com/live.php?c=Nick_HD_Plus&q=250&e=.m3u8",
     "logo": "https://i.pinimg.com/originals/bb/14/d2/bb14d2dc4df9b55242bf48d670b095cb.jpg",
     "isFrom": "web",
-     "isLive": true
+     "isLive": false
   },
  {
     "name": "Nick Hindi",
     "url": "https://tv.googledrivelinks.com/live.php?c=Nick_Hindi&q=250&e=.m3u8",
     "logo": "https://variety.com/wp-content/uploads/2014/08/nick-nickelodeon-logo.jpg",
     "isFrom": "web",
-     "isLive": true
+     "isLive": false
   },
 {
     "name": "Pogo Hindi",
     "url": "https://tv.googledrivelinks.com/live.php?c=Pogo_Hindi&q=250&e=.m3u8",
     "logo": "https://freight.cargo.site/t/original/i/bc6cf3b5c09d87fb9181c005aa9f7b2ec5793ba34bb664e26523446e710a2c51/Logo_2.jpg",
     "isFrom": "web",
-     "isLive": true
+     "isLive": false
   },
 {
     "name": "Discovery English",
@@ -69,7 +69,7 @@
     "url": "https://tv.googledrivelinks.com/live.php?c=Animal_Planet_Hindi&q=250&e=.m3u8",
     "logo": "https://i.revistapym.com.co/old/2019/02/animal-planet-1.jpg",
     "isFrom": "web",
-     "isLive": true
+     "isLive": false
   },
 {
     "name": "History English",
@@ -83,7 +83,7 @@
     "url": "https://tv.googledrivelinks.com/live.php?c=History_18_Hindi&q=250&e=.m3u8",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLj4ZLXcDawg_-iaU-QaodRF0DTnGdk382Xw&usqp=CAU",
     "isFrom": "web",
-     "isLive": true
+     "isLive": false
   },
 {
     "name": "BBC Earth English",
@@ -97,7 +97,7 @@
     "url": "https://tv.googledrivelinks.com/live.php?c=Sony_BBC_Earth_HD&q=250&e=.m3u8",
     "logo": "https://i.ytimg.com/vi/97wA1mQG-dY/maxresdefault.jpg",
     "isFrom": "web",
-     "isLive": true
+     "isLive": false
   }
 ]
 }
