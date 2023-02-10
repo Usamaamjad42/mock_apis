@@ -1,5 +1,18 @@
 {
-  "package": "com.mindbuffer.tvisionpk",
-  "new_link": "https://play.google.com/store/apps/details?id=com.mindbuffersports.cricpro",
-  "appLink": "Let's watch cricket on Live Cricket HD TV! It's a fast, and simple app we can use to watch live cricket for free. Get it at https://mindbuffersports.page.link/cricket"
+  "moreApps": [
+    {
+      "appImageLink": "https://play-lh.googleusercontent.com/DahU2itmCu2DR2AVJ0BBDw9VbduIjKt4Bs9xyNjYoO0AOcKrCAS9KZ1GTkZ09qaY6KmL=w416-h235-rw",
+      "appLink": "https://play.google.com/store/apps/details?id=com.mindbuffer.videodownloader",
+      "appName": "Video Downloader: tiktok Insta"
+    }
+  ],
+  "package": "com.mindbuffersports.maxtv",
+  "new_link": "https://play.google.com/store/apps/details?id=com.mindbuffersports.maxtv",
+  "appLink": "Let's watch cricket on Live Cricket HD TV! It's a fast, and simple app we can use to watch live cricket for free. Get it at https://mindbuffersports.page.link/cricket",
+  "bannedCountryList": [
+    "hl=en-in",
+    "hl=en-uk",
+    "hl=en-gb",
+    "hl-en-us"
+  ]
 }
