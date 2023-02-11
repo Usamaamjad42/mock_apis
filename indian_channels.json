@@ -3,7 +3,7 @@
 "liveNow": [
   {
     "name": "Sony HD",
-    "url": "https://tv.googledrivelinks.com/live.php?c=Sony_HD&q=250&e=.m3u8",
+    "url": "https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8",
     "logo": "https://www.bizasialive.com/wp-content/uploads/2018/08/sonytvlogo002.jpg",
     "isFrom": "web",
      "isLive": false
