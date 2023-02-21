@@ -2,13 +2,6 @@
   "categoryName": "Movies",
 "liveNow": [
   {
-    "name": "Colors Cineplex",
-    "url": "https://tv.googledrivelinks.com/live.php?c=Colors_Cineplex&q=250&e=.m3u8",
-    "logo": "http://v3img.voot.com/v3Storage/assets/Live-Tv-Channels-colors-cineplex-1607514413063.jpg",
-    "isFrom": "web",
-     "isLive": false
-  },
-  {
     "name": "Sony Pix HD",
     "url": "https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8",
     "logo": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-pix-hd-logo-300x300.jpg",
@@ -28,6 +21,13 @@
     "logo": "https://www.bizasialive.com/wp-content/uploads/2019/03/sonymax2001.jpg",
     "isFrom": "web",
      "isLive": true
+  },
+  {
+    "name": "Colors Cineplex",
+    "url": "https://tv.googledrivelinks.com/live.php?c=Colors_Cineplex&q=250&e=.m3u8",
+    "logo": "http://v3img.voot.com/v3Storage/assets/Live-Tv-Channels-colors-cineplex-1607514413063.jpg",
+    "isFrom": "web",
+     "isLive": false
   },
 {
     "name": "And Pictures HD",
