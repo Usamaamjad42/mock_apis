@@ -3,13 +3,8 @@
   "apk": "https://maliknetguru.github.io/apks_links/SportsTV/app-release.apk",
   "changelog": "Improved alarm scheduling. Fixes #284\nOptional version name check. Implemented by hemker. Fixes #304 #318",
   "moreApps": [
-    {
-      "appImageLink": "https://play-lh.googleusercontent.com/DahU2itmCu2DR2AVJ0BBDw9VbduIjKt4Bs9xyNjYoO0AOcKrCAS9KZ1GTkZ09qaY6KmL=w416-h235-rw",
-      "appLink": "https://play.google.com/store/apps/details?id=com.mindbuffer.videodownloader",
-      "appName": "Video Downloader: tiktok Insta"
-    }
   ],
-  "package": "com.mindbuffersports.live",
+  "package": "com.mindbuffer.videodownloader",
   "new_link": "https://mindbuffersports.page.link/cricket",
   "appLink": "Let's watch cricket, football, movies and news on Live Crickistan! It's a fast, and simple app we can use to watch live sports for free. Get it at https://mindbuffersports.page.link/cricket",
   "bannedCountryList": [
