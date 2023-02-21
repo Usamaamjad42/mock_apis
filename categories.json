@@ -1,6 +1,11 @@
 {
   
   "categories": [
+    {
+    "id": "server_channels.json",
+    "name": "Live Sports",
+    "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
+  },
      {
     "id": "news_channels.json",
     "name": "News",
@@ -30,6 +35,11 @@
     "id": "pakistani_channels.json",
     "name": "Pakistani",
     "icon": "https://cdn-icons-png.flaticon.com/512/5316/5316186.png"
+  },
+     {
+    "id": "sports_channels.json",
+    "name": "Sports",
+    "icon": "https://cdn-icons-png.flaticon.com/512/4163/4163679.png"
   }
 
   ]
