@@ -1,5 +1,5 @@
 {
-  "version": "43",
+  "version": "1",
   "apk": "https://maliknetguru.github.io/apks_links/SportsTV/app-release.apk",
   "changelog": "Improved alarm scheduling. Fixes #284\nOptional version name check. Implemented by hemker. Fixes #304 #318",
   "moreApps": [
