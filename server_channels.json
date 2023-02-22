@@ -2,37 +2,30 @@
   "categoryName": "Live Sports",
   "liveNow": [
      {
-    "name": "Pakistan VS Newzealand",
-    "url": "https://gocast2.com/crichdws.php?player=desktop&live=skyscric",
-    "logo": "https://images.news18.com/ibnlive/uploads/2022/10/new-zealand-vs-pakistan-dream-11-prediction-16654255513x2.jpg",
+    "name": "Australia VS India",
+    "url": "https://123ecast.xyz/embed.php?v=skyscric&vw=100%&vh=100%",
+    "logo": "https://feeds.abplive.com/onecms/images/uploaded-images/2023/02/05/0acc42bc035ef8b66ed7270fa31d46f61675581006342625_original.jpg?impolicy=abp_cdn&imwidth=650",
     "isFrom": "web",
     "isLive": false
   },
     {
-    "name": "India Vs Sri Lanka",
-    "url": "https://123ecast.xyz/embed.php?v=astrocric&vw=100%&vh=100%",
-    "logo": "https://india.postsen.com/temp/resized/medium_2023-01-10-7c56010a98.jpg",
+    "name": "Australia VS India",
+    "url": "https://123ecast.xyz/embed.php?v=superspcric&vw=100%&vh=100%",
+    "logo": "https://feeds.abplive.com/onecms/images/uploaded-images/2023/02/05/0acc42bc035ef8b66ed7270fa31d46f61675581006342625_original.jpg?impolicy=abp_cdn&imwidth=650",
     "isFrom": "web",
     "isLive": false
   },
-     {
-    "name": "Big Bash League",
-    "url": "https://123ecast.xyz/embed.php?v=fox501&vw=100%&vh=100%",
-    "logo": "https://www.timesofsports.com/wp-content/uploads/2020/11/BBL-2020.png",
+    {
+    "name": "Multan Sultans Vs Karachi Kings",
+    "url": "https://gocast2.com/crichdws.php?player=desktop&live=ptvpk",
+    "logo": "https://i0.wp.com/www.watchlivepslhd.com/wp-content/uploads/2021/02/Karachi-Kings-vs-Multan-Sultans-Live-PSL-Match-Today.jpg?fit=1147%2C599&ssl=1",
     "isFrom": "web",
     "isLive": false
   },
-     {
-    "name": "Bangladesh Premier League",
-    "url": "https://123ecast.xyz/embed.php?v=viaplayextra&vw=100%&vh=100%",
-    "logo": "https://new-media.dhakatribune.com/en/uploads/2022/11/19/bpl-2028.jpeg",
-    "isFrom": "web",
-    "isLive": false
-  },
-     {
-    "name": "Ireland VS Zimbabwe",
-    "url": "https://123ecast.xyz/embed.php?v=fox501&vw=100%&vh=100%",
-    "logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_800,q_50/lsci/db/PICTURES/CMS/327100/327145.4.jpg",
+    {
+    "name": "Multan Sultans Vs Karachi Kings",
+    "url": "https://gocast2.com/crichdws.php?player=desktop&live=asportshd",
+    "logo": "https://i0.wp.com/www.watchlivepslhd.com/wp-content/uploads/2021/02/Karachi-Kings-vs-Multan-Sultans-Live-PSL-Match-Today.jpg?fit=1147%2C599&ssl=1",
     "isFrom": "web",
     "isLive": false
   }
