@@ -2,28 +2,42 @@
   "categoryName": "Live Sports",
   "liveNow": [
      {
-    "name": "Australia VS India",
+    "name": "England VS South Africa",
     "url": "https://123ecast.xyz/embed.php?v=skyscric&vw=100%&vh=100%",
-    "logo": "https://feeds.abplive.com/onecms/images/uploaded-images/2023/02/05/0acc42bc035ef8b66ed7270fa31d46f61675581006342625_original.jpg?impolicy=abp_cdn&imwidth=650",
+    "logo": "https://i.guim.co.uk/img/media/96dc995aaec2fb34298f4f170d391c841a169cd4/0_49_3500_2100/500.jpg?quality=85&auto=format&fit=max&s=d716be46cc0a9aa518e06ac3fb03cfe8",
     "isFrom": "web",
     "isLive": false
   },
     {
-    "name": "Australia VS India",
+    "name": "England VS South Africa",
     "url": "https://123ecast.xyz/embed.php?v=superspcric&vw=100%&vh=100%",
-    "logo": "https://feeds.abplive.com/onecms/images/uploaded-images/2023/02/05/0acc42bc035ef8b66ed7270fa31d46f61675581006342625_original.jpg?impolicy=abp_cdn&imwidth=650",
+    "logo": "https://i.guim.co.uk/img/media/96dc995aaec2fb34298f4f170d391c841a169cd4/0_49_3500_2100/500.jpg?quality=85&auto=format&fit=max&s=d716be46cc0a9aa518e06ac3fb03cfe8",
     "isFrom": "web",
     "isLive": false
   },
     {
-    "name": "Multan Sultans Vs Karachi Kings",
+    "name": "England VS New Zealand",
+    "url": "https://123ecast.xyz/embed.php?v=bbtsp1&vw=100%&vh=100%",
+    "logo": "https://c.ndtvimg.com/2022-06/5so9tbl_jonny-bairstow-afp_625x300_14_June_22.jpg?im=FeatureCrop,algorithm=dnn,width=806,height=605",
+    "isFrom": "web",
+    "isLive": false
+  },
+    {
+    "name": "England VS New Zealand",
+    "url": "https://123ecast.xyz/embed.php?v=superspcric&vw=100%&vh=100%",
+    "logo": "https://c.ndtvimg.com/2022-06/5so9tbl_jonny-bairstow-afp_625x300_14_June_22.jpg?im=FeatureCrop,algorithm=dnn,width=806,height=605",
+    "isFrom": "web",
+    "isLive": false
+  },
+    {
+    "name": "Quetta Gladiators Vs Islamabad United",
     "url": "https://gocast2.com/crichdws.php?player=desktop&live=ptvpk",
     "logo": "https://i0.wp.com/www.watchlivepslhd.com/wp-content/uploads/2021/02/Karachi-Kings-vs-Multan-Sultans-Live-PSL-Match-Today.jpg?fit=1147%2C599&ssl=1",
     "isFrom": "web",
     "isLive": false
   },
     {
-    "name": "Multan Sultans Vs Karachi Kings",
+    "name": "Quetta Gladiators Vs Islamabad United",
     "url": "https://gocast2.com/crichdws.php?player=desktop&live=asportshd",
     "logo": "https://i0.wp.com/www.watchlivepslhd.com/wp-content/uploads/2021/02/Karachi-Kings-vs-Multan-Sultans-Live-PSL-Match-Today.jpg?fit=1147%2C599&ssl=1",
     "isFrom": "web",
