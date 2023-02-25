@@ -2,16 +2,16 @@
   "categoryName": "Live Sports",
   "liveNow": [
      {
-    "name": "England VS South Africa",
+    "name": "Australia VS South Africa",
     "url": "https://123ecast.xyz/embed.php?v=skyscric&vw=100%&vh=100%",
-    "logo": "https://i.guim.co.uk/img/media/96dc995aaec2fb34298f4f170d391c841a169cd4/0_49_3500_2100/500.jpg?quality=85&auto=format&fit=max&s=d716be46cc0a9aa518e06ac3fb03cfe8",
+    "logo": "https://res.cricketbetting.net/images/matches/australia-vs-south-africa-women-final-match.webp",
     "isFrom": "web",
     "isLive": false
   },
     {
-    "name": "England VS South Africa",
+    "name": "Australia VS South Africa",
     "url": "https://123ecast.xyz/embed.php?v=superspcric&vw=100%&vh=100%",
-    "logo": "https://i.guim.co.uk/img/media/96dc995aaec2fb34298f4f170d391c841a169cd4/0_49_3500_2100/500.jpg?quality=85&auto=format&fit=max&s=d716be46cc0a9aa518e06ac3fb03cfe8",
+    "logo": "https://res.cricketbetting.net/images/matches/australia-vs-south-africa-women-final-match.webp",
     "isFrom": "web",
     "isLive": false
   },
