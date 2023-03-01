@@ -3,7 +3,7 @@
 "liveNow": [
   {
     "name": "Sony HD",
-    "url": "https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8",
+    "url": "http://starshare.live:8080/live/653753875756/086746427532/98854.ts",
     "logo": "https://www.bizasialive.com/wp-content/uploads/2018/08/sonytvlogo002.jpg",
     "isFrom": "web",
      "isLive": false
