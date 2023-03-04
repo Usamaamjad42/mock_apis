@@ -2,16 +2,16 @@
   "categoryName": "Live Sports",
   "liveNow": [
     {
-    "name": "England VS New Zealand",
-    "url": "https://123ecast.xyz/embed.php?v=bbtsp1&vw=100%&vh=100%",
-    "logo": "https://c.ndtvimg.com/2022-06/5so9tbl_jonny-bairstow-afp_625x300_14_June_22.jpg?im=FeatureCrop,algorithm=dnn,width=806,height=605",
+    "name": "Lahore Qalandars Vs Multan Sultans",
+    "url": "https://gocast2.com/crichdws.php?player=desktop&live=ptvpk",
+    "logo": "https://i.ytimg.com/vi/0sgqF97RVtA/maxresdefault.jpg",
     "isFrom": "web",
     "isLive": false
   },
     {
-    "name": "England VS New Zealand",
-    "url": "https://123ecast.xyz/embed.php?v=superspcric&vw=100%&vh=100%",
-    "logo": "https://c.ndtvimg.com/2022-06/5so9tbl_jonny-bairstow-afp_625x300_14_June_22.jpg?im=FeatureCrop,algorithm=dnn,width=806,height=605",
+    "name": "Lahore Qalandars Vs Multan Sultans",
+    "url": "https://gocast2.com/crichdws.php?player=desktop&live=asportshd",
+    "logo": "https://i.ytimg.com/vi/0sgqF97RVtA/maxresdefault.jpg",
     "isFrom": "web",
     "isLive": false
   },
@@ -26,20 +26,6 @@
     "name": "South Africa VS West Indies",
     "url": "https://123ecast.xyz/embed.php?v=willowusa&vw=100%&vh=100%",
     "logo": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/324000/324049.4.jpg",
-    "isFrom": "web",
-    "isLive": false
-  },
-    {
-    "name": "Peshawar Zalmi Vs Karachi Kings",
-    "url": "https://gocast2.com/crichdws.php?player=desktop&live=ptvpk",
-    "logo": "https://www.thenews.com.pk//assets/uploads/updates/2020-03-02/622703_1127924_PZvsKK_updates.jpg",
-    "isFrom": "web",
-    "isLive": false
-  },
-    {
-    "name": "Peshawar Zalmi Vs Karachi Kings",
-    "url": "https://gocast2.com/crichdws.php?player=desktop&live=asportshd",
-    "logo": "https://www.thenews.com.pk//assets/uploads/updates/2020-03-02/622703_1127924_PZvsKK_updates.jpg",
     "isFrom": "web",
     "isLive": false
   }
