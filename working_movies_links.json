@@ -1,0 +1,26 @@
+{
+  "categoryName": "Movies",
+"liveNow": [
+  {
+    "name": "Luck",
+    "url": "AOUqjYgFaeg",
+    "logo": "https://img.youtube.com/vi/AOUqjYgFaeg/0.jpg",
+    "isFrom": "youtube",
+     "isLive": true
+  },
+  {
+    "name": "Lage Raho Munna Bhai",
+    "url": "9spc-dExLH0",
+    "logo": "https://img.youtube.com/vi/9spc-dExLH0/0.jpg",
+    "isFrom": "youtube",
+     "isLive": true
+  },
+  {
+    "name": "Phantom",
+    "url": "APYo8ulxzcQ",
+    "logo": "https://img.youtube.com/vi/APYo8ulxzcQ/0.jpg",
+    "isFrom": "youtube",
+     "isLive": true
+  }
+]
+}
