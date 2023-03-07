@@ -2,16 +2,16 @@
   "categoryName": "Live Sports",
   "liveNow": [
     {
-    "name": "Lahore Qalandars Vs Multan Sultans",
+    "name": "Lahore Qalandars Vs Peshawar Zalmi",
     "url": "https://gocast2.com/crichdws.php?player=desktop&live=ptvpk",
-    "logo": "https://i.ytimg.com/vi/0sgqF97RVtA/maxresdefault.jpg",
+    "logo": "https://www.thenews.com.pk//assets/uploads/updates/2019-02-17/433084_2176916_Lahore-Qalandars-vs-Peshawa_updates.jpg",
     "isFrom": "web",
     "isLive": false
   },
     {
-    "name": "Lahore Qalandars Vs Multan Sultans",
+    "name": "Islamabad United Vs Multan Sultans",
     "url": "https://gocast2.com/crichdws.php?player=desktop&live=asportshd",
-    "logo": "https://i.ytimg.com/vi/0sgqF97RVtA/maxresdefault.jpg",
+    "logo": "https://www.thenews.com.pk//assets/uploads/updates/2019-02-16/432779_7563880_multan-vs-islamabad_updates.jpg",
     "isFrom": "web",
     "isLive": false
   },
