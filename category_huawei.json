@@ -6,6 +6,11 @@
     "id": "working_movies_links.json",
     "name": "Movies",
     "icon": "https://cdn-icons-png.flaticon.com/512/1179/1179120.png"
+  },
+     {
+    "id": "indian_channels.json",
+    "name": "Indians",
+    "icon": "https://cdn-icons-png.flaticon.com/512/2160/2160162.png"
   }
   ]
 }
