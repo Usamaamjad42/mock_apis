@@ -1,11 +1,6 @@
 {
   
   "categories": [
-     {
-    "id": "indian_channels.json",
-    "name": "Indians",
-    "icon": "https://cdn-icons-png.flaticon.com/512/2160/2160162.png"
-  }
       {
     "id": "movies_channels.json",
     "name": "Movies",
