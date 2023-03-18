@@ -46,14 +46,21 @@
     {
     "name": "India vs Australia",
     "url": "https://123ecast.xyz/embed.php?v=astrocric&vw=100%&vh=100%",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQma_sahZlzdHY5UCLSMOAXY-fdPC09NfeVfRefMO8aBGw5A_4ex7vU6dp5dCGcg-CKlU&usqp=CAU",
+    "logo": "https://www.91-cdn.com/hub/wp-content/uploads/2023/03/How-to-watch-India-vs-Australia-ODI-match-series.jpg",
     "isFrom": "web",
     "isLive": false
   },
     {
     "name": "India vs Australia",
     "url": "https://gocast2.com/crichdws.php?player=desktop&live=willowusa",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQma_sahZlzdHY5UCLSMOAXY-fdPC09NfeVfRefMO8aBGw5A_4ex7vU6dp5dCGcg-CKlU&usqp=CAU",
+    "logo": "https://www.91-cdn.com/hub/wp-content/uploads/2023/03/How-to-watch-India-vs-Australia-ODI-match-series.jpg",
+    "isFrom": "web",
+    "isLive": false
+  },
+    {
+    "name": "India vs Australia",
+    "url": "https://123ecast.xyz/embed.php?v=superspcric&vw=100%&vh=100%",
+    "logo": "https://www.91-cdn.com/hub/wp-content/uploads/2023/03/How-to-watch-India-vs-Australia-ODI-match-series.jpg",
     "isFrom": "web",
     "isLive": false
   }
