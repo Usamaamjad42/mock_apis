@@ -2,16 +2,23 @@
   "categoryName": "Live Sports",
   "liveNow": [
     {
-    "name": "Multan Sultans Vs Lahore Qalandars",
-    "url": "https://gocast2.com/crichdws.php?player=desktop&live=ptvpk",
-    "logo": "https://www.incpak.com/wp-content/uploads/2023/02/Multan-Sultans-vs-Lahore-Qalandars.jpg",
+    "name": "India vs Australia",
+    "url": "https://123ecast.xyz/embed.php?v=fox501&vw=100%&vh=100%",
+    "logo": "https://www.91-cdn.com/hub/wp-content/uploads/2023/03/How-to-watch-India-vs-Australia-ODI-match-series.jpg",
     "isFrom": "web",
     "isLive": false
   },
     {
-    "name": "Multan Sultans Vs Lahore Qalandars",
+    "name": "India vs Australia",
     "url": "https://gocast2.com/crichdws.php?player=desktop&live=willowusa",
-    "logo": "https://www.incpak.com/wp-content/uploads/2023/02/Multan-Sultans-vs-Lahore-Qalandars.jpg",
+    "logo": "https://www.91-cdn.com/hub/wp-content/uploads/2023/03/How-to-watch-India-vs-Australia-ODI-match-series.jpg",
+    "isFrom": "web",
+    "isLive": false
+  },
+    {
+    "name": "India vs Australia",
+    "url": "https://123ecast.xyz/embed.php?v=superspcric&vw=100%&vh=100%",
+    "logo": "https://www.91-cdn.com/hub/wp-content/uploads/2023/03/How-to-watch-India-vs-Australia-ODI-match-series.jpg",
     "isFrom": "web",
     "isLive": false
   },
@@ -40,27 +47,6 @@
     "name": "South Africa VS West Indies",
     "url": "https://123ecast.xyz/embed.php?v=superspcric&vw=100%&vh=100%",
     "logo": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/324000/324049.4.jpg",
-    "isFrom": "web",
-    "isLive": false
-  },
-    {
-    "name": "India vs Australia",
-    "url": "https://123ecast.xyz/embed.php?v=astrocric&vw=100%&vh=100%",
-    "logo": "https://www.91-cdn.com/hub/wp-content/uploads/2023/03/How-to-watch-India-vs-Australia-ODI-match-series.jpg",
-    "isFrom": "web",
-    "isLive": false
-  },
-    {
-    "name": "India vs Australia",
-    "url": "https://gocast2.com/crichdws.php?player=desktop&live=willowusa",
-    "logo": "https://www.91-cdn.com/hub/wp-content/uploads/2023/03/How-to-watch-India-vs-Australia-ODI-match-series.jpg",
-    "isFrom": "web",
-    "isLive": false
-  },
-    {
-    "name": "India vs Australia",
-    "url": "https://123ecast.xyz/embed.php?v=superspcric&vw=100%&vh=100%",
-    "logo": "https://www.91-cdn.com/hub/wp-content/uploads/2023/03/How-to-watch-India-vs-Australia-ODI-match-series.jpg",
     "isFrom": "web",
     "isLive": false
   }
