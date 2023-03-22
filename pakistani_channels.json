@@ -3,16 +3,16 @@
 "liveNow": [
   {
     "name": "Hum TV",
-    "url": "CtEPae9RJ88",
+    "url": "ddlCWZxwB24",
     "logo": "https://i.ytimg.com/vi/K-a-EWmQtZQ/sddefault.jpg",
     "isFrom": "youtube",
      "isLive": false
   },
   {
     "name": "ARY Digital",
-    "url": "RCtj3XNA4FY",
+    "url": "https://arydigital.aryzap.com/48d2f08eca46cbc68ee7aaf400c1f376/641c3b5f/v1/0183ea2408f90b8ed5941a38bc72/0183ea24302d0b8ed5941a38bc75/ARYDigitalHDh264_480p.m3u8",
     "logo": "https://propakistani.pk/wp-content/uploads/2022/01/ARY-network.jpg",
-    "isFrom": "youtube",
+    "isFrom": "web",
      "isLive": false
   },
    {
