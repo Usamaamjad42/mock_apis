@@ -2,30 +2,16 @@
   "categoryName": "Live Sports",
   "liveNow": [
     {
-    "name": "India vs Australia",
-    "url": "https://123ecast.xyz/embed.php?v=star1in&vw=100%&vh=100%",
-    "logo": "https://www.91-cdn.com/hub/wp-content/uploads/2023/03/How-to-watch-India-vs-Australia-ODI-match-series.jpg",
+    "name": "Pakistan vs Afghanistan",
+    "url": "https://123ecast.xyz/embed.php?v=asports&vw=100%&vh=100%",
+    "logo": "https://www.globalvillagespace.com/wp-content/uploads/2019/06/World-Cup-Afghanistan-v-Pakistan-match-gets-political.png",
     "isFrom": "web",
     "isLive": false
   },
     {
-    "name": "India vs Australia",
-    "url": "https://gocast2.com/crichdws.php?player=desktop&live=willowusa",
-    "logo": "https://www.91-cdn.com/hub/wp-content/uploads/2023/03/How-to-watch-India-vs-Australia-ODI-match-series.jpg",
-    "isFrom": "web",
-    "isLive": false
-  },
-    {
-    "name": "India vs Australia",
-    "url": "https://123ecast.xyz/embed.php?v=superspcric&vw=100%&vh=100%",
-    "logo": "https://www.91-cdn.com/hub/wp-content/uploads/2023/03/How-to-watch-India-vs-Australia-ODI-match-series.jpg",
-    "isFrom": "web",
-    "isLive": false
-  },
-    {
-    "name": "Sri lanka vs New zealand",
-    "url": "https://123ecast.xyz/embed.php?v=bbtsp3&vw=100%&vh=100%",
-    "logo": "https://stumpsandbails.com/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-28-at-8.19.52-AM.jpeg",
+    "name": "Pakistan vs Afghanistan",
+    "url": "https://gocast2.com/crichdws.php?player=desktop&live=asportshd",
+    "logo": "https://www.globalvillagespace.com/wp-content/uploads/2019/06/World-Cup-Afghanistan-v-Pakistan-match-gets-political.png",
     "isFrom": "web",
     "isLive": false
   },
