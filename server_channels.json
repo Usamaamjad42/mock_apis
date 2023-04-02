@@ -2,23 +2,23 @@
   "categoryName": "Live Sports",
   "liveNow": [
     {
-    "name": "SRH vs RR",
+    "name": "IPL Channel 1",
     "url": "https://123ecast.xyz/embed.php?v=skyscric&vw=100%&vh=100%",
-    "logo": "https://sportstiger-images.s3.ap-south-1.amazonaws.com/media/indian-premier-league-match-4-who-will-win-sunrisers-hyderabad-vs-rajasthan-royals-sportstiger-1680252742344-original.jpg",
+    "logo": "https://sportstiger-images.s3.ap-south-1.amazonaws.com/2022/03/IPL-20222-sportstiger.jpg",
     "isFrom": "web",
     "isLive": false
   },
     {
-    "name": "SRH vs RR",
+    "name": "IPL Channel 2",
     "url": "https://123ecast.xyz/embed.php?v=star1in&vw=100%&vh=100%",
-    "logo": "https://sportstiger-images.s3.ap-south-1.amazonaws.com/media/indian-premier-league-match-4-who-will-win-sunrisers-hyderabad-vs-rajasthan-royals-sportstiger-1680252742344-original.jpg",
+    "logo": "https://sportstiger-images.s3.ap-south-1.amazonaws.com/2022/03/IPL-20222-sportstiger.jpg",
     "isFrom": "web",
     "isLive": false
   },
     {
-    "name": "SRH vs RR",
+    "name": "IPL Channel 3",
     "url": "https://123ecast.xyz/embed.php?v=willowusa&vw=100%&vh=100%",
-    "logo": "https://sportstiger-images.s3.ap-south-1.amazonaws.com/media/indian-premier-league-match-4-who-will-win-sunrisers-hyderabad-vs-rajasthan-royals-sportstiger-1680252742344-original.jpg",
+    "logo": "https://sportstiger-images.s3.ap-south-1.amazonaws.com/2022/03/IPL-20222-sportstiger.jpg",
     "isFrom": "web",
     "isLive": false
   },
