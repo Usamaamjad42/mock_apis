@@ -52,14 +52,14 @@
   },
 {
     "name": "BBC Earth English",
-    "url": "https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8",
+    "url": "https://lokiiptv.in/play.php?id=852&c=Sony_BBC_Earth_HD_English",
     "logo": "https://d17mj1ha1c2g57.cloudfront.net/v1/BPHyhpEj-tU9JPCeuXCvlsATv7A/1200x/80/mcasso/production/clips/1513768264765/bbc-earth-large-screen2.jpg?v=1",
     "isFrom": "web",
      "isLive": true
   },
 {
     "name": "BBC Earth Hindi",
-    "url": "https://tv.googledrivelinks.com/live.php?c=Sony_BBC_Earth_HD&q=250&e=.m3u8",
+    "url": "https://lokiiptv.in/play.php?id=821&c=Sony_BBC_Earth_HD",
     "logo": "https://i.ytimg.com/vi/97wA1mQG-dY/maxresdefault.jpg",
     "isFrom": "web",
      "isLive": false
