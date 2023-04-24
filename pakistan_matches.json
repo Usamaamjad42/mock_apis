@@ -2,21 +2,28 @@
   "categoryName": "Pakistan vs New Zealand",
   "liveNow": [
     {
-    "name": "Pakistan VS New Zealand",
+    "name": "Channel 1",
+    "url": "https://millionscast.com/video.php?player=desktop&live=ptvpk",
+    "logo": "https://a-sports.tv/wp-content/uploads/2023/04/pak-vs-nz-logo.png",
+    "isFrom": "web",
+    "isLive": false
+  },
+    {
+    "name": "Channel 2",
     "url": "https://zcasthd.xyz/embed.php?v=skysmixx&vw=100%&vh=100%",
     "logo": "https://a-sports.tv/wp-content/uploads/2023/04/pak-vs-nz-logo.png",
     "isFrom": "web",
     "isLive": false
   },
     {
-    "name": "Pakistan VS New Zealand",
+    "name": "Channel 3",
     "url": "https://zcasthd.xyz/embed.php?v=ptvpk&vw=100%&vh=100%",
     "logo": "https://a-sports.tv/wp-content/uploads/2023/04/pak-vs-nz-logo.png",
     "isFrom": "web",
     "isLive": false
   },
     {
-    "name": "Pakistan VS New Zealand",
+    "name": "Channel 4",
     "url": "https://zcasthd.xyz/embed.php?v=sonysixendia&vw=100%&vh=100%",
     "logo": "https://a-sports.tv/wp-content/uploads/2023/04/pak-vs-nz-logo.png",
     "isFrom": "web",
