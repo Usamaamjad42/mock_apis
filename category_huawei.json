@@ -31,6 +31,11 @@
     "name": "Pakistani",
     "icon": "https://cdn-icons-png.flaticon.com/512/5316/5316186.png"
   },
+    {
+    "id": "indian_channels.json",
+    "name": "Indian",
+    "icon": "https://cdn-icons-png.flaticon.com/512/2160/2160162.png"
+  },
      {
     "id": "entertainment_channels.json",
     "name": "Entertainment",
