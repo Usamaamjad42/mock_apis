@@ -10,57 +10,22 @@
   },
   {
     "name": "Sony Max HD",
-    "url": "https://lokiiptv.in/nocast.m3u8/?c=__hdnea__=st=1682329542~exp=1682333142~acl=/packagerx_mpd3/Sony_Max_HD_HLS/*~hmac=6cc617db53b1497d35a156e899e9f783131b9bba6b43924748d6145f9f46c705&q=https://jiotvmblive.cdn.jio.com/packagerx_mpd3/Sony_Max_HD_HLS/3.m3u8",
+    "url": "https://lokiiptv.in/nocast.m3u8/?id=476",
     "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",
     "isFrom": "web",
      "isLive": false
   },
   {
     "name": "Sony SAB",
-    "url": "http://starshare.live:8080/live/653753875756/086746427532/98853.m3u8",
+    "url": "https://lokiiptv.in/nocast.m3u8/?id=154",
     "logo": "https://origin-staticv2.sonyliv.com/masthead_logo/4867316278001.png",
     "isFrom": "web",
      "isLive": false
   },
   {
     "name": "Colors HD",
-    "url": "http://starshare.live:8080/live/653753875756/086746427532/98851.m3u8",
+    "url": "https://lokiiptv.in/nocast.m3u8/?id=144",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Colors_tv2017.png/220px-Colors_tv2017.png",
-    "isFrom": "web",
-     "isLive": false
-  },
-  {
-    "name": "Animal Planet",
-    "url": "http://starshare.live:8080/live/653753875756/086746427532/9391.m3u8",
-    "logo": "https://vignette.wikia.nocookie.net/tvfanon6528/images/f/f4/Animal_Planet_HD_%282018-.n.v.%29.png/revision/latest?cb=20190715173635",
-    "isFrom": "web",
-     "isLive": false
-  },
-  {
-    "name": "History Channel",
-    "url": "http://starshare.live:8080/live/653753875756/086746427532/9392.m3u8",
-    "logo": "https://pluspng.com/img-png/history-hd-png-historyhd-png-352.png",
-    "isFrom": "web",
-     "isLive": false
-  },
-  {
-    "name": "Discovery HD",
-    "url": "http://starshare.live:8080/live/653753875756/086746427532/9393.m3u8",
-    "logo": "https://vignette.wikia.nocookie.net/logopedia/images/9/91/Discovery_HD_World.png/revision/latest?cb=20190102093400",
-    "isFrom": "web",
-     "isLive": false
-  },
-  {
-    "name": "Astro Cricket",
-    "url": "http://starshare.live:8080/live/653753875756/086746427532/2494.m3u8",
-    "logo": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/824_300.png",
-    "isFrom": "web",
-     "isLive": false
-  },
-  {
-    "name": "Ptv Sports",
-    "url": "http://starshare.live:8080/live/653753875756/086746427532/89.m3u8",
-    "logo": "https://cdn.imgbin.com/2/7/1/imgbin-logo-ptv-sports-television-channel-pakistan-cricket-8YvzSP5MmbjMiT27N1RsitE0D.jpg",
     "isFrom": "web",
      "isLive": false
   }
