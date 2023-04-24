@@ -2,6 +2,13 @@
   "categoryName": "Indian",
 "liveNow": [
   {
+    "name": "Zee TV HD",
+    "url": "https://lokiiptv.in/nocast.m3u8/?c=__hdnea__=st=1682328511~exp=1682332111~acl=/bpk-tv/Zee_TV_HD_MOB/Fallback/*~hmac=7f9057577992dce012514faa68fd034b30bbcb097070785bc46e464c06c0ca5c&q=https://jiotvmblive.cdn.jio.com/bpk-tv/Zee_TV_HD_MOB/Fallback/Zee_TV_HD_MOB-audio_98835_eng=98800-video=376800.m3u8",
+    "logo": "http://sptnaecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",
+    "isFrom": "web",
+     "isLive": false
+  },
+  {
     "name": "Sony HD",
     "url": "http://starshare.live:8080/live/653753875756/086746427532/98854.m3u8",
     "logo": "https://www.bizasialive.com/wp-content/uploads/2018/08/sonytvlogo002.jpg",
