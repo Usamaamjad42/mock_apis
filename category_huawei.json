@@ -3,7 +3,17 @@
   "categories": [
     {
     "id": "server_channels.json",
-    "name": "Live Sports",
+    "name": "IPL",
+    "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
+  },
+    {
+    "id": "pakistan_matches.json",
+    "name": "Pakistan vs New Zealand",
+    "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
+  },
+    {
+    "id": "sirilanka_matches.json",
+    "name": "Sri lanka vs Ireland",
     "icon": "https://cdn-icons-png.flaticon.com/512/6749/6749936.png"
   },
      {
