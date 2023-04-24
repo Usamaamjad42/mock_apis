@@ -28,6 +28,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Colors_tv2017.png/220px-Colors_tv2017.png",
     "isFrom": "web",
      "isLive": false
+  },
+  {
+    "name": "MTV HD",
+    "url": "https://lokiiptv.in/nocast.m3u8/?id=1145",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png",
+    "isFrom": "web",
+     "isLive": false
   }
 ]
 }
