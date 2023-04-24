@@ -3,7 +3,7 @@
 "liveNow": [
   {
     "name": "Zee TV HD",
-    "url": "https://lokiiptv.in/nocast.m3u8/?c=__hdnea__=st=1682328511~exp=1682332111~acl=/bpk-tv/Zee_TV_HD_MOB/Fallback/*~hmac=7f9057577992dce012514faa68fd034b30bbcb097070785bc46e464c06c0ca5c&q=https://jiotvmblive.cdn.jio.com/bpk-tv/Zee_TV_HD_MOB/Fallback/Zee_TV_HD_MOB-audio_98835_eng=98800-video=376800.m3u8",
+    "url": "https://jiotvmblive.cdn.jio.com/packagerx_mpd3/Sony_Max_HD_HLS/3.m3u8",
     "logo": "http://sptnaecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",
     "isFrom": "web",
      "isLive": false
