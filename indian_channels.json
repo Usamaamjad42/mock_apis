@@ -35,6 +35,48 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png",
     "isFrom": "web",
      "isLive": false
+  },
+  {
+    "name": "And ATV HD",
+    "url": "https://lokiiptv.in/nocast.m3u8/?id=472",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png",
+    "isFrom": "web",
+     "isLive": false
+  },
+  {
+    "name": "Mastiii",
+    "url": "https://lokiiptv.in/nocast.m3u8/?id=584",
+    "logo": "http://sngprecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Mastiii.png",
+    "isFrom": "web",
+     "isLive": false
+  },
+  {
+    "name": "MTV Beats HD",
+    "url": "https://lokiiptv.in/nocast.m3u8/?id=753",
+    "logo": "http://sngprecdnems13.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png",
+    "isFrom": "web",
+     "isLive": false
+  },
+  {
+    "name": "Rishtey",
+    "url": "https://lokiiptv.in/nocast.m3u8/?id=279",
+    "logo": "http://slckncdnems01.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png",
+    "isFrom": "web",
+     "isLive": false
+  },
+  {
+    "name": "Zee Anmol",
+    "url": "https://lokiiptv.in/nocast.m3u8/?id=473",
+    "logo": "http://slckncdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png",
+    "isFrom": "web",
+     "isLive": false
+  },
+  {
+    "name": "Sony Pal",
+    "url": "https://lokiiptv.in/nocast.m3u8/?id=474",
+    "logo": "http://slckncdnems03.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png",
+    "isFrom": "web",
+     "isLive": false
   }
 ]
 }
