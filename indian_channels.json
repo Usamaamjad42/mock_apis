@@ -3,15 +3,15 @@
 "liveNow": [
   {
     "name": "Zee TV HD",
-    "url": "https://lokiiptv.in/nocast.m3u8/?c=__hdnea__=st=1682329542~exp=1682333142~acl=/packagerx_mpd3/Sony_Max_HD_HLS/*~hmac=6cc617db53b1497d35a156e899e9f783131b9bba6b43924748d6145f9f46c705&q=https://jiotvmblive.cdn.jio.com/packagerx_mpd3/Sony_Max_HD_HLS/3.m3u8",
-    "logo": "http://sptnaecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",
+    "url": "https://lokiiptv.in/nocast.m3u8/?id=167",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",
     "isFrom": "web",
      "isLive": false
   },
   {
-    "name": "Sony HD",
-    "url": "http://starshare.live:8080/live/653753875756/086746427532/98854.m3u8",
-    "logo": "https://www.bizasialive.com/wp-content/uploads/2018/08/sonytvlogo002.jpg",
+    "name": "Sony Max HD",
+    "url": "https://lokiiptv.in/nocast.m3u8/?c=__hdnea__=st=1682329542~exp=1682333142~acl=/packagerx_mpd3/Sony_Max_HD_HLS/*~hmac=6cc617db53b1497d35a156e899e9f783131b9bba6b43924748d6145f9f46c705&q=https://jiotvmblive.cdn.jio.com/packagerx_mpd3/Sony_Max_HD_HLS/3.m3u8",
+    "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",
     "isFrom": "web",
      "isLive": false
   },
