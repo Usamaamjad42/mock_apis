@@ -32,20 +32,11 @@
     "icon": "https://cdn-icons-png.flaticon.com/512/5316/5316186.png"
   },
      {
-    "id": "indian_channels.json",
-    "name": "Indian",
-    "icon": "https://cdn-icons-png.flaticon.com/512/2160/2160162.png"
-  },
-     {
     "id": "entertainment_channels.json",
     "name": "Entertainment",
     "icon": "https://static.thenounproject.com/png/741374-200.png"
   },
-      {
-    "id": "movies_channels.json",
-    "name": "Movies",
-    "icon": "https://cdn-icons-png.flaticon.com/512/1179/1179120.png"
-  },
+    
      {
     "id": "sports_channels.json",
     "name": "Sports",
