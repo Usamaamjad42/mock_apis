@@ -1,24 +1,24 @@
 {
-  "categoryName": "IPL Live",
+  "categoryName": "ICC WTC Final",
   "liveNow": [
     {
     "name": "Channel 1",
     "url": "https://millionscast.com/video.php?player=desktop&live=skyscric",
-    "logo": "https://sportstiger-images.s3.ap-south-1.amazonaws.com/2022/03/IPL-20222-sportstiger.jpg",
+    "logo": "https://sportsmintmedia.com/wp-content/uploads/2023/06/WTC-final.jpg",
     "isFrom": "web",
     "isLive": false
   },
     {
     "name": "Channel 2",
     "url": "https://zcasthd.xyz/embed.php?v=willowusa&vw=100%&vh=100%",
-    "logo": "https://sportstiger-images.s3.ap-south-1.amazonaws.com/2022/03/IPL-20222-sportstiger.jpg",
+    "logo": "https://sportsmintmedia.com/wp-content/uploads/2023/06/WTC-final.jpg",
     "isFrom": "web",
     "isLive": false
   },
     {
     "name": "Channel 3",
     "url": "https://millionscast.com/video.php?player=desktop&live=willowusa",
-    "logo": "https://sportstiger-images.s3.ap-south-1.amazonaws.com/2022/03/IPL-20222-sportstiger.jpg",
+    "logo": "https://sportsmintmedia.com/wp-content/uploads/2023/06/WTC-final.jpg",
     "isFrom": "web",
     "isLive": false
   }
