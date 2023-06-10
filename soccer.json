@@ -3,31 +3,24 @@
   "liveNow": [
     {
     "name": "Channel 1",
-    "url": "https://zcasthd.xyz/embed.php?v=bbtsp2&vw=100%&vh=100%",
-    "logo": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/VTkZemd1fegihRB3_192x108.jpg",
+    "url": "https://gocast2.com/footy.php?player=desktop&live=bbtsp1",
+    "logo": "https://images.unsplash.com/photo-1551958219-acbc608c6377?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8fA%3D%3D&w=1000&q=80",
     "isFrom": "web",
     "isLive": false
   },
     {
     "name": "Channel 2",
-    "url": "https://zcasthd.xyz/embed.php?v=willowextra&vw=100%&vh=100%",
-    "logo": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/VTkZemd1fegihRB3_192x108.jpg",
+    "url": "https://millionscast.com/video.php?player=desktop&live=superpremier",
+    "logo": "https://images.unsplash.com/photo-1551958219-acbc608c6377?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8fA%3D%3D&w=1000&q=80",
     "isFrom": "web",
     "isLive": false
   },
     {
     "name": "Channel 3",
-    "url": "https://millionscast.com/video.php?player=desktop&live=tenspk",
-    "logo": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/VTkZemd1fegihRB3_192x108.jpg",
+    "url": "https://zcasthd.xyz/embed.php?v=ten2endia&vw=100%&vh=100%",
+    "logo": "https://images.unsplash.com/photo-1551958219-acbc608c6377?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8fA%3D%3D&w=1000&q=80",
     "isFrom": "web",
     "isLive": false
-    },
-    {
-    "name": "Channel 4",
-    "url": "https://millionscast.com/video.php?player=desktop&live=bbtsp2",
-    "logo": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/VTkZemd1fegihRB3_192x108.jpg",
-    "isFrom": "web",
-    "isLive": false
-  }
+    }
   ]
   }
