@@ -1,22 +1,22 @@
 {
-  "categoryName": "Sri lanka vs Ireland",
+  "categoryName": "Football",
   "liveNow": [
     {
-    "name": "Channel 1",
+    "name": "UEFA Final",
     "url": "https://gocast2.com/footy.php?player=desktop&live=bbtsp1",
     "logo": "https://images.unsplash.com/photo-1551958219-acbc608c6377?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8fA%3D%3D&w=1000&q=80",
     "isFrom": "web",
     "isLive": false
   },
     {
-    "name": "Channel 2",
+    "name": "UEFA Final",
     "url": "https://millionscast.com/video.php?player=desktop&live=superpremier",
     "logo": "https://images.unsplash.com/photo-1551958219-acbc608c6377?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8fA%3D%3D&w=1000&q=80",
     "isFrom": "web",
     "isLive": false
   },
     {
-    "name": "Channel 3",
+    "name": "UEFA Final",
     "url": "https://zcasthd.xyz/embed.php?v=ten2endia&vw=100%&vh=100%",
     "logo": "https://images.unsplash.com/photo-1551958219-acbc608c6377?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8fA%3D%3D&w=1000&q=80",
     "isFrom": "web",
