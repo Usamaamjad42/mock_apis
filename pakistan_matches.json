@@ -1,31 +1,31 @@
 {
-  "categoryName": "Pakistan vs New Zealand",
+  "categoryName": "Ashes 2023",
   "liveNow": [
     {
     "name": "Channel 1",
-    "url": "https://millionscast.com/video.php?player=desktop&live=ptvpk",
-    "logo": "https://a-sports.tv/wp-content/uploads/2023/04/pak-vs-nz-logo.png",
+    "url": "https://gocast2.com/footy.php?player=desktop&live=skyscric",
+    "logo": "https://www.lolcricket.com/wp-content/uploads/2023/05/ashes-2023_11zon.jpg",
     "isFrom": "web",
     "isLive": false
   },
     {
     "name": "Channel 2",
-    "url": "https://zcasthd.xyz/embed.php?v=skysmixx&vw=100%&vh=100%",
-    "logo": "https://a-sports.tv/wp-content/uploads/2023/04/pak-vs-nz-logo.png",
+    "url": "https://millionscast.com/video.php?player=desktop&live=willowusa",
+    "logo": "https://www.lolcricket.com/wp-content/uploads/2023/05/ashes-2023_11zon.jpg",
     "isFrom": "web",
     "isLive": false
   },
     {
     "name": "Channel 3",
-    "url": "https://zcasthd.xyz/embed.php?v=ptvpk&vw=100%&vh=100%",
-    "logo": "https://a-sports.tv/wp-content/uploads/2023/04/pak-vs-nz-logo.png",
+    "url": "https://zcasthd.xyz/embed.php?v=willowusa&vw=100%&vh=100%",
+    "logo": "https://www.lolcricket.com/wp-content/uploads/2023/05/ashes-2023_11zon.jpg",
     "isFrom": "web",
     "isLive": false
   },
     {
     "name": "Channel 4",
     "url": "https://zcasthd.xyz/embed.php?v=sonysixendia&vw=100%&vh=100%",
-    "logo": "https://a-sports.tv/wp-content/uploads/2023/04/pak-vs-nz-logo.png",
+    "logo": "https://www.lolcricket.com/wp-content/uploads/2023/05/ashes-2023_11zon.jpg",
     "isFrom": "web",
     "isLive": false
   }
