@@ -3,7 +3,7 @@
   "liveNow": [
     {
     "name": "Channel 1",
-    "url": "https://gocast2.com/footy.php?player=desktop&live=skyscric",
+    "url": "https://millionscast.com/video.php?player=desktop&live=skyscric",
     "logo": "https://www.lolcricket.com/wp-content/uploads/2023/05/ashes-2023_11zon.jpg",
     "isFrom": "web",
     "isLive": false
@@ -17,14 +17,14 @@
   },
     {
     "name": "Channel 3",
-    "url": "https://zcasthd.xyz/embed.php?v=willowusa&vw=100%&vh=100%",
+    "url": "https://pipcast.cc/embed.php?v=willowusa&vw=100%&vh=100%",
     "logo": "https://www.lolcricket.com/wp-content/uploads/2023/05/ashes-2023_11zon.jpg",
     "isFrom": "web",
     "isLive": false
   },
     {
     "name": "Channel 4",
-    "url": "https://zcasthd.xyz/embed.php?v=skysme&vw=100%&vh=100%",
+    "url": "https://pipcast.cc/embed.php?v=skysme&vw=100%&vh=100%",
     "logo": "https://www.lolcricket.com/wp-content/uploads/2023/05/ashes-2023_11zon.jpg",
     "isFrom": "web",
     "isLive": false
